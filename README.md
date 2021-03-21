@@ -1,7 +1,7 @@
 # Notification-Service
 
 ## Install all the package to run code -
-### Npm install
+### npm install
 
-## TO run Code -
+## To run Code -
 ### npm start
